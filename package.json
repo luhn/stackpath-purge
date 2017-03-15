@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/luhn/stackpath-purge/issues"
   },
-  "homepage": "https://github.com/luhn/stackpath-purge#readme"
+  "homepage": "https://github.com/luhn/stackpath-purge#readme",
+  "dependencies": {
+    "stackpath": "0.0.5"
+  }
 }
