@@ -1,0 +1,19 @@
+{
+  "name": "stackpath-purge",
+  "version": "0.1.0",
+  "description": "Purge the Stackpath cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luhn/stackpath-purge.git"
+  },
+  "author": "Theron Luhn <theron@luhn.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luhn/stackpath-purge/issues"
+  },
+  "homepage": "https://github.com/luhn/stackpath-purge#readme"
+}
